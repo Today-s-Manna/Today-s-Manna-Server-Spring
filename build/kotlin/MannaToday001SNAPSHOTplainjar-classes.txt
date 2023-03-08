@@ -1,0 +1,1 @@
+/Users/nathan-kim/Downloads/MannaToday/build/classes/kotlin/main/com/jinyeob/mannatoday/MannaTodayApplication.class:/Users/nathan-kim/Downloads/MannaToday/build/classes/kotlin/main/com/jinyeob/mannatoday/MannaTodayApplicationKt.class
